@@ -1,2 +1,4 @@
-# pub_emp_analyses
-Analysis of Public Employee Salaries
+## Analyzing Public Salary Data
+
+1. [California](scripts/ca_salaries.ipynb)
+   The salary data underlying the analyis posted [here](https://doi.org/10.7910/DVN/KA3TS8) and the census data is posted [here](census/).
